@@ -43,6 +43,6 @@ Use the IPv6 BIN file if you need to query BOTH IPv4 and IPv6 addresses.
 
 Copyright
 =========
-Copyright (C) 2017 by IP2Location.com
+Copyright (C) 2018 by IP2Location.com
 
 Licensed under MIT
